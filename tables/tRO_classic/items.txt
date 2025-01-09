@@ -4600,7 +4600,7 @@
 9047#[SR] Wicked Nymph Egg#
 9048#Miyabi Doll Egg#
 9051#Stone Shooter Egg#
-9052#Incubus Egg#
+9052#[SR]Incubus Egg#
 9053#Golem Egg#
 9054#Nightmare Terror Egg#
 9055#[S] Succubus Egg#
@@ -4622,7 +4622,7 @@
 9102#Mummy Egg#
 9103#Willow Egg#
 9104#Roween Egg#
-9105#Hodremlin Egg#
+9105#[S]Hodremlin Egg#
 9107#Ancient Mummy Egg#
 9108#Abandoned Teddy Bear Egg#
 9111#[SSR] Phreeoni Egg#
@@ -4633,7 +4633,7 @@
 9118#[SR] Aliot Egg#
 9119#[S] Alicel Egg#
 9121#[SSR] Orc Hero Egg#
-9122#Gloom Under Night Egg#
+9122#[SSR]Gloom Under Night Egg#
 9126#[SSR] Kiel-D-01 Egg#
 9129#[S] Desert Wolf Egg#
 9130#[SR] Chaotic Baphomet Jr. Egg#
@@ -4643,6 +4643,7 @@
 9523#Metal Refine Ticket#
 9539#Blue Potion Box#
 9550#Gemstone of Time#
+9582#Fancy Spray of Flowers#
 9808#Old Hat Box#
 9817#Adventurer Scroll#
 9818#Lv. 99 Reward Box (Non-Rebirth)#
@@ -8670,6 +8671,7 @@
 29619#Stalker Stone II (Lower)#
 29620#Stalker Stone II (Middle)#
 29621#Stalker Stone II (Upper)#
+29727#Roaring Effect#
 31016#Decorated Evil Tree Card#
 31017#Vicious Cookie Card#
 31018#Evil Dwelling Box Card#
@@ -8686,6 +8688,7 @@
 31047#Costume First Love Cheeks#
 31051#Costume Happy Summer Cap#
 31055#Costume Poring Soap Pipe#
+31056#Costume Flaming Blast Wave#
 31057#Costume Eremes Scarf (Black)#
 31062#Costume Eleanor Wig#
 31063#Costume Hair Bun(Blue)#
@@ -8851,6 +8854,7 @@
 31813#Costume Lunatic On Shoulder#
 31815#Costume Angola#
 31816#Costume Three Rabbits Ribbon #
+31819#Costume Dullahan Mask#
 31821#Costume Jeje Cap#
 31831#Costume Disguise Overcoat#
 31836#Costume Aviator Hat#
@@ -8887,6 +8891,7 @@
 32004#Probation Paladin Lance#
 32237#Celine's Brooch K#
 100000#IDTest Special#
+100052#Costume Enchant Stone Box19#
 100054#Shadow Transcendental Time Box#
 100061#[Not For Sale] Red Booster#
 100083#Korean Style Apple Hair Box (Middle)#
@@ -8916,6 +8921,7 @@
 100195#Full Metal Ammo Case#
 100196#Mine Ammo Case#
 100197#Dragon Tail Ammo Case#
+100371#Homunculus Tablet#
 100492#Field Manual Special#
 100493#Job Manual Special#
 100494#[Not For Sale] Beholder Ring Box II#
@@ -9184,6 +9190,7 @@
 103882#Party Blessing 7Day Box#
 103884#Party Increase Agi 7Day Box#
 103886#Party Assumption 7Day Box#
+103916#Villain Costume Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9221,6 +9228,18 @@
 300209#Sealed Nightmare Amon Ra Card#
 300291#1st Anniversary Card#
 300419#Baby Camellia Effect#
+310000#Sniper Stone II (Upper)#
+310001#Sniper Stone II (Middle)#
+310002#Sniper Stone II (Lower)#
+310003#Sniper Stone II (Garment)#
+310004#Whitesmith Stone II (Upper)#
+310005#Whitesmith Stone II (Middle)#
+310006#Whitesmith Stone II (Lower)#
+310007#Whitesmith Stone II (Garment)#
+310008#High Priest Stone II (Upper)#
+310009#High Priest Stone II (Middle)#
+310010#High Priest Stone II (Lower)#
+310011#High Priest  Stone II (Garment)#
 310322#Magic Feather Effect#
 311395#Hit Plus 1#
 311396#Hit Plus 2#
@@ -9376,6 +9395,7 @@
 410055#Costume Floating Parasol#
 410061#Costume Deviruchi Apron#
 410062#Costume Carefree Face#
+410068#Costume Fish Marche#
 410072#Costume Demons Familiar#
 410081#Costume Released Ground#
 410082#Costume Happy Carnival Balloon#
@@ -9415,6 +9435,7 @@
 410277#Costume Ragdoll#
 410278#Costume Blinking Bloody Eyes#
 410283#Costume Wing Headphone#
+410289#Costume Baby Gloom Under Night#
 410290#Costume Jellyfish#
 410291#Little Abyss Dragon#
 410292#Costume Little Abyss Dragon#
@@ -9670,6 +9691,7 @@
 480433#Costume Twin Edge#
 480434#Giant God Snake Skin#
 480435#Giant God Snake Skin#
+480436#Costume Baphomet Scythe#
 480437#Costume Himmelmez Sword#
 480448#Skin Of Marraco#
 480449#[Not For Sale] Skin Of Marraco#
@@ -9824,6 +9846,18 @@
 800041#Raid Ocean Revolver#
 820033#Raid Ocean Shotgun#
 1000000#IDTest event#
+1000008#Sniper Stone II (Upper)#
+1000009#Sniper Stone II (Middle)#
+1000010#Sniper Stone II (Lower)#
+1000011#Sniper Stone II (Garment)#
+1000012#Whitesmith  Stone II (Upper)#
+1000013#Whitesmith  Stone II (Middle)#
+1000014#Whitesmith  Stone II (Lower)#
+1000015#Whitesmith Stone II (Garment)#
+1000016#High Priest Stone II (Upper)#
+1000017#High Priest Stone II (Middle)#
+1000018#High Priest Stone II (Lower)#
+1000019#High Priest Stone II (Garment)#
 1000345#Time Accessory Effect (Middle)#
 1000365#Magic Feather Effect (Upper)#
 1000467#Rebellion Pre-Register Ticket#
@@ -9833,6 +9867,7 @@
 1000923#Celine Kimi Coin#
 1000965#[Event] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
+1001252#Roaring Effect (Upper)#
 1001277#(Raid) Silver Key#
 1001278#(Raid) Gold Key#
 1001354#Idle Fish Rod#

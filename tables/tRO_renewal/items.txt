@@ -10525,6 +10525,7 @@
 31674#Costume Jitterbug Cap#
 31684#Costume Kururinpa Tails#
 31686#Costume Desert Wolf Baby#
+31693#Costume Lunatic Muffler#
 31695#Costume Tree Sprout#
 31698#Costume Red Riding Hood#
 31699#Costume Smiling Eyes#
@@ -11507,6 +11508,7 @@
 103865#Lapine Box (MVP Card Change I)#
 103901#X'mas Wish Scroll#
 103907#GOC Top-Up Box II#
+103935#2025 Year of the Snake Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12232,6 +12234,7 @@
 400495#Costume Crescent Helm#
 400496#Costume White Fox Ears#
 400502#Costume Ring#
+400557#Costume Egg Picky Doll#
 400565#Costume Small Deviling Hat#
 400585#Costume Snowman Hat#
 400656#Costume White Khalitzburg Knight Helm#
@@ -12303,6 +12306,7 @@
 410198#Costume Deviruchi Party#
 410200#Costume Butler Bunny#
 410201#Costume Haunting Skull#
+410202#Costume Ragnarok Go Go#
 410212#Costume Little Abyss Dragon#
 410219#Costume Jumbo Rabbit#
 410220#Costume Frozen Blinking Eyes#
@@ -12493,6 +12497,8 @@
 420391#Kradat#
 420392#Twin Cannon-LT#
 420431#The Spirit Of World-LT#
+420436#Flutter Butterfly-LT#
+420437#Vassalage Necklace-LT#
 430001#Costume Helm of Amon Ra#
 430003#[Not For Sale] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
@@ -12674,6 +12680,7 @@
 460083#Forbidden Grimoire II#
 460094#Aegis of the Illusive#
 460095#Aegis of the Illusive-LT#
+460097#Forbidden Grimoire II-LT#
 470000#Attacker Booster Greaves#
 470001#Elemental Booster Shoes#
 470002#Defunct Booster Shoes#
@@ -12739,6 +12746,7 @@
 470169#Temporal Boots Luk#
 470170#Temporal Boots#
 470181#[Not For Sale] Ancient Hero Boots#
+470183#Exotic Temporal Boots-LT#
 470193#Military Boots TH#
 470194#[Not for Sale] Military Boots TH#
 470245#[Not For Sale] Destroyer Boots#
@@ -12886,6 +12894,7 @@
 480307#Fallen Angel Wing#
 480308#[비매품] 타락천사의 날개#
 480309#Bravery Bag#
+480312#Exotic Temporal Manteau-LT#
 480313#Hunting Scarf#
 480314#[Not For Sale] Hunting Scarf#
 480315#Costume Skia's Sword#
@@ -13023,6 +13032,7 @@
 490159#러프 코어#
 490164#Heroic Token (Shadow Cross)#
 490165#Heroic Token (Abyss Chaser)#
+490172#Heroic Token (Troubadour/Trouvere)#
 490180#Heroic Token (Meister)#
 490182#Immortal Dog Tag#
 490208#Palace Ring#
@@ -13212,6 +13222,10 @@
 490671#[Not For Sale] Memento Memory (Cardinal)#
 490672#Memento Mind (Elemental Master)#
 490673#[Not For Sale] Memento Mind (Elemental Master)#
+490674#Memento Memory (Elemental Master)#
+490675#[Not for Sale] Memento Memory (Elemental Master)#
+490676#Memento Mind (Cardinal)#
+490677#[Not for Sale] Memento Mind (Cardinal)#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -13385,6 +13399,7 @@
 570022#Eden Group Minstrel Violin#
 570023#Eden Group Minstrel Harp#
 570024#Rainstorm Booster Violin#
+570027#Trumpet Shell-LT#
 570050#Raid Human Guitar#
 570051#[Not For Sale] Trumpet Shell#
 580000#Boosting Whip#
@@ -13400,6 +13415,7 @@
 580022#Eden Group Wanderer Whip#
 580023#Eden Group Wanderer Rope#
 580024#Rainstorm Booster Whip#
+580027#Barbed Wire Whip-LT#
 580051#Raid Human Whip#
 580052#[Not For Sale] Barbed Wire Whip K#
 590000#Boosting Mace#
@@ -13526,6 +13542,7 @@
 700041#Eden Group Shadow Chaser Bow#
 700042#Eden Group Ranger Bow#
 700043#Eden Group Ranger Crossbow#
+700049#Narcis Bow-LT#
 700054#Virtual Bow-OSAD#
 700055#MH-P89-OSAD#
 700056#AC-B44-OSAD#
@@ -13852,7 +13869,7 @@
 1000889#Mixed Fruits Juice#
 1000890#[Event] Episode 17 Clear Ticket#
 1000891#Special Red Pill Exchange#
-1000895#Special Genetic Aura Exchange#
+1000895#Jormungand Stick Exchange#
 1000896#Coin#
 1000923#Water Bubble Coin#
 1000924#Bookmark#

@@ -7043,6 +7043,7 @@
 20191#Costume Black Cat Ears Beret#
 20192#Costume Foxtail#
 20195#Costume Scratching Cat#
+20196#Costume Leopard Ear Hat#
 20197#Costume Amistr Beret#
 20200#Costume Rabbit Head Dress#
 20213#Costume Sirt Evil Eye#
@@ -9167,6 +9168,7 @@
 103552#Kafra Call#
 103596#Harvest Festa Costume Scroll #
 103614#Mythical Circus Scroll#
+103629#Shadow Random Mix (EXP)#
 103637#VIP Gift Box#
 103638#VVIP Gift Box#
 103639#Super VIP Gift Box#
@@ -9191,6 +9193,7 @@
 103884#Party Increase Agi 7Day Box#
 103886#Party Assumption 7Day Box#
 103916#Villain Costume Scroll#
+103962#Erymanthian Boar Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9385,6 +9388,8 @@
 400741#Costume RWC 2013 Hat#
 400750#Khalitzburg Knight Blue Helm#
 400753#[Not For Sale] Khalitzburg Knight Blue Helm#
+400764#Parfait V Hat#
+400765#[Not For Sale] Parfait V Hat#
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -9702,6 +9707,8 @@
 480514#[Not For Sale] Manteau of Flame Heart#
 480518#White Knight Armor#
 480519#[Not For Sale] White Knight Armor #
+480531#Erymanthian Skin#
+480532#[Not For Sale] Erymanthian Skin#
 490030#Temporal Ring#
 490033#Fallen Angel's Tear#
 490147#1st Anniversary Ring#
@@ -9864,7 +9871,7 @@
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000896#RCC2024 Coin#
-1000923#Celine Kimi Coin#
+1000923#Erymanthian Boar Coin#
 1000965#[Event] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001252#Roaring Effect (Upper)#

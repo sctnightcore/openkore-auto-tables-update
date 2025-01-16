@@ -12090,6 +12090,13 @@
 313721#Thanos Spell (Fighter) Lv.1#
 313722#Thanos Spell (Fighter) Lv.2#
 313723#Thanos Spell (Fighter) Lv.3#
+313738#Purified Stone Garment(STR)#
+313739#Purified Stone Garment(LUK)#
+313740#Purified Stone Garment(DEX)#
+313741#Purified Stone Garment(INT)#
+313742#Purified Stone Garment(VIT)#
+313743#Purified Stone Garment(AGI)#
+313744#Purified Stone Garment(Ultimate)#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -12145,6 +12152,7 @@
 400188#Costume Ragnarok Hairband#
 400197#Costume Sweet Chef Hat#
 400204#Costume Pink Witch Hat#
+400225#Costume Fluffy Rabbit Cape#
 400232#Costume Crushed Snow Man#
 400245#Tiger King Doll Hat-LT#
 400246#Bacsojin Hat-LT#
@@ -12243,6 +12251,7 @@
 400693#Costume Red Paeonia#
 400705#Costume ROS 2024 Honor Crown#
 400706#Mask of Sin Fate#
+400709#Costume White Puppy Hat#
 410005#Costume Magic Heir#
 410011#Costume Dark Blinkers#
 410012#EXP Advicer#
@@ -12359,6 +12368,7 @@
 410350#Costume Kwaiii#
 410351#Costume Blue Buoyant Parasol#
 410352#Costume Red Buoyant Parasol#
+410359#Costume Great Pyrenees#
 410363#Costume Aura of Ghost Ship#
 410370#Costume Happy Joker Mask#
 410377#Flying Drone-LT#
@@ -12482,6 +12492,7 @@
 420350#Costume Green Sunbed#
 420352#Costume Pool#
 420353#Costume Charisma Extension Twin#
+420357#Costume Baby Seal#
 420361#Flame Heart In Mouth#
 420362#[Not For Sale] Flame Heart In Mouth#
 420363#Ice Crystal In Mouth#
@@ -12496,6 +12507,7 @@
 420390#Khon#
 420391#Kradat#
 420392#Twin Cannon-LT#
+420421#Costume Blue Cat Ears Cape#
 420431#The Spirit Of World-LT#
 420436#Flutter Butterfly-LT#
 420437#Vassalage Necklace-LT#
@@ -12948,6 +12960,7 @@
 480470#Costume Summer Beach#
 480474#Tiger Howling Suit#
 480475#[Not for Sale] Tiger Howling Suit#
+480487#Costume Paw Backpack#
 480498#White Knight Mantle (Melee)#
 480499#White Knight Mantle (Range)#
 480500#White Knight Mantle (Magic)#
@@ -13938,6 +13951,13 @@
 1001900#[Scroll] Enchant Ticket#
 1001902#Reform Stone#
 1001911#[Event] Enchant Ticket#
+1001951#Purified Stone Garment(STR)#
+1001952#Purified Stone Garment(LUK)#
+1001953#Purified Stone Garment(DEX)#
+1001954#Purified Stone Garment(INT)#
+1001955#Purified Stone Garment(VIT)#
+1001956#Purified Stone Garment(AGI)#
+1001957#Purified Stone Garment(Ultimate)#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#

@@ -3547,6 +3547,16 @@
 6342#Faded Music(Purple)#
 6343#Faded Music(Blue)#
 6345#Love Much#
+6347#Gate Ticket Deepest Layer Dungeon - 2F#
+6348#Gate Ticket Hall of the Abyss - Warrior road#
+6349#Gate Ticket03#
+6350#Gate Ticket04#
+6351#Gate Ticket05#
+6352#Gate Ticket06#
+6353#Gate Ticket07#
+6354#Gate Ticket08#
+6355#Gate Ticket09#
+6356#Gate Ticket10#
 6359#Poring Exchange#
 6360#Scarlet Point#
 6361#Indigo Point#
@@ -6881,6 +6891,7 @@
 19665#Costume Poring Cake Cap#
 19667#Costume Helm of Dragonslayer#
 19675#Costume Jumping Poring#
+19676#Costume Rainbow Poring Hat#
 19678#Costume Bell Ribbon#
 19683#Costume Sweet Candy#
 19685#Costume Shining Santa Hat#
@@ -8803,6 +8814,7 @@
 31545#Costume Eremes Scarf (Blue)#
 31547#Costume Mascot Poporing#
 31565#Costume Princess Ribbon Crown#
+31568#Costume Yin Yang Beads#
 31569#Costume: Open Air Headset#
 31572#Costume Mobile Pursuit System#
 31573#Costume Mecha Cat Ears#
@@ -8981,6 +8993,7 @@
 100906#Buffet All in One Recovery Potion#
 100908#Magic Piercing Shadow Box#
 100909#Soft Feather Scroll#
+100914#Kafra Buff (1Hr)#
 100922#10 World Moving Ticket Box#
 100924#Pegasus Scroll#
 100940#Gothic Scroll#

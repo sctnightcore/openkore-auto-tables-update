@@ -8979,6 +8979,10 @@
 24725#Auto Spell Shadow Weapon#
 24726#Auto Spell Shadow Pendant#
 24727#Auto Spell Shadow Earring#
+24728#Major Auto Spell Shadow Armor#
+24729#Major Auto Spell Shadow Shoes#
+24730#Major Auto Spell Shadow Earring#
+24731#Major Auto Spell Shadow Pendant#
 24732#Hasty Shadow Shield#
 24733#Infinity Shadow Shield#
 24734#Durable Weapon Shadow#
@@ -10958,6 +10962,7 @@
 100780#Songkran Egg#
 100781#Razer Gold Treasure#
 100782#Flower of Spring Scroll#
+100783#Major Auto Spell Shadow Mix Box#
 100786#Armor Reform Box (High)#
 100791#Invisible Scroll#
 100807#Oriental Scroll#
@@ -11509,6 +11514,12 @@
 103901#X'mas Wish Scroll#
 103907#GOC Top-Up Box II#
 103935#2025 Year of the Snake Scroll#
+103969#Gacha SSS Item Box#
+103984#Shard of Jewelry Box#
+103985#Power of Abyss Ore (Physical)#
+103986#Power of Abyss Ore (Magical)#
+103987#Power of Abyss Jewel#
+103988#Abyss Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12373,6 +12384,9 @@
 410370#Costume Happy Joker Mask#
 410377#Flying Drone-LT#
 410386#Raven Of Tomb-LT#
+410389#Ear of Flame#
+410390#Ear of Soul#
+410391#Ear of Abyss#
 420000#Isabella Carrot#
 420002#Dullahan Mask#
 420003#CD in Mouth K#
@@ -12969,6 +12983,8 @@
 480507#Costume Star 2nd Runner-Up 2024 Wing#
 480508#Costume Star 3rd Runner-Up 2024 Wing#
 480515#Costume Autumn Full Moon#
+480533#Hero Courage Cape#
+480534#Hero Favor Cape#
 490004#Attacker Booster Ring#
 490005#Elemental Booster Earring#
 490006#Defunct Booster Earring#
@@ -13041,12 +13057,14 @@
 490129#Eden Group Advanced Necklace#
 490147#1st Anniversary Ring#
 490149#Glittering Meow Meow Choker#
+490152#Heroic Token (Arch Mage)#
 490155#Heroic Token (Imperial Guard)#
 490159#러프 코어#
 490164#Heroic Token (Shadow Cross)#
 490165#Heroic Token (Abyss Chaser)#
 490172#Heroic Token (Troubadour/Trouvere)#
 490180#Heroic Token (Meister)#
+490181#Heroic Token (Inquisitor)#
 490182#Immortal Dog Tag#
 490208#Palace Ring#
 490209#[Not for Sale]Angel Egg#
@@ -13397,6 +13415,8 @@
 560023#Eden Group Monk Claw#
 560024#Eden Group Sura Knuckle#
 560025#Eden Group Sura Claw#
+560026#Iron Nail-LT#
+560027#Ray Knuckle-LT#
 560034#Burning Knuckle-OSAD#
 560049#Raid Human Claw#
 570000#Boosting Guitar#
@@ -13520,6 +13540,8 @@
 640024#Eden Group Warlock Wand#
 640025#Eden Group Soul Reaper Staff#
 640026#Eden Group Soul Reaper Soul Stick#
+640027#Aeon Staff-LT#
+640028#Blue Crystal Staff-LT#
 640048#Raid Human Staff#
 650003#Wrath Wheel#
 650004#Patent Huuma Shuriken Clearness#
@@ -13958,6 +13980,7 @@
 1001955#Purified Stone Garment(VIT)#
 1001956#Purified Stone Garment(AGI)#
 1001957#Purified Stone Garment(Ultimate)#
+1001971#Ding Ding Wish Coin#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#

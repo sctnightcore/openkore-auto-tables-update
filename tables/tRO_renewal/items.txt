@@ -7274,6 +7274,7 @@
 19665#Costume Poring Cake Cap#
 19667#Costume Helm of Dragonslayer#
 19675#Costume Jumping Poring#
+19676#Costume Rainbow Poring Hat#
 19678#Costume Bell Ribbon#
 19683#Costume Sweet Candy#
 19685#Costume Shining Santa Hat#
@@ -11514,6 +11515,8 @@
 103901#X'mas Wish Scroll#
 103907#GOC Top-Up Box II#
 103935#2025 Year of the Snake Scroll#
+103939#Golden Thiefbug Blessing#
+103940#Corridor Defense Blessing#
 103969#Gacha SSS Item Box#
 103984#Shard of Jewelry Box#
 103985#Power of Abyss Ore (Physical)#
@@ -11754,6 +11757,9 @@
 300577#Upgrade Ranger Cecil Card#
 300578#Upgrade Minstrel Alphoccio Card#
 300579#Upgrade Wanderer Trentini Card#
+300619#Upgrade Osiris Card#
+300620#Upgrade Doppelganger Card#
+300621#Upgrade Time Holder Card#
 310000#Sniper Stone II (Upper)#
 310001#Sniper Stone II (Middle)#
 310002#Sniper Stone II (Lower)#

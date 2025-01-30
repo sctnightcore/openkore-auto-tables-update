@@ -8809,6 +8809,7 @@
 31510#Costume Cat Ear Short#
 31512#Costume Tuxedo Rabbit#
 31525#Costume Little Deviling#
+31530#Costume Greater Dracul Horn#
 31533#Costume Warm Black Cat Muffler#
 31538#Costume Love Feeling#
 31545#Costume Eremes Scarf (Blue)#
@@ -9207,6 +9208,7 @@
 103886#Party Assumption 7Day Box#
 103916#Villain Costume Scroll#
 103962#Erymanthian Boar Scroll#
+104001#Celestial Guard Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9580,6 +9582,7 @@
 450424#The Ragnarok T-Shirts#
 450428#Khalitzburg Knight Blue Armor#
 450429#[Not For Sale] Khalitzburg Knight Blue Armor#
+450436#Commander Manteau#
 460028#[Not for Sale]Sharel Shield#
 460033#[Not For Sale] Mad Bunny#
 460041#Dark Shield#
@@ -9722,6 +9725,7 @@
 480519#[Not For Sale] White Knight Armor #
 480531#Erymanthian Skin#
 480532#[Not For Sale] Erymanthian Skin#
+480537#[Not For Sale] Commander Manteau#
 490030#Temporal Ring#
 490033#Fallen Angel's Tear#
 490147#1st Anniversary Ring#
@@ -9795,7 +9799,11 @@
 490648#Charm of Flame Heart#
 490649#[Not For Sale] Charm of Flame Heart#
 490662#Elite Royalguard Ring#
+490682#Zephyrus Ring#
+490683#[Not For Sale] Zephyrus Ring#
 500000#IDTest weapon#
+500003#Light Blade#
+500061#[Not For Sale] Light Blade#
 500079#Raid Human Sword#
 500080#[Not For Sale] Blessed Knife#
 500100#Raid Ocean Sword#
@@ -9884,7 +9892,7 @@
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000896#RCC2024 Coin#
-1000923#Erymanthian Boar Coin#
+1000923#Celestial Guard Coin#
 1000965#[Event] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001252#Roaring Effect (Upper)#

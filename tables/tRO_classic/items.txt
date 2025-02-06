@@ -3638,6 +3638,8 @@
 6487#Blue Card 1#
 6488#Thanks Invest Ticket#
 6489#Cats Invest Certificate#
+6490#Magic Clay Fragment#
+6492#Magic Clay Lump#
 6493#Makibishi#
 6496#Tikbalang's Thick Spine#
 6497#Lesser Agimat#
@@ -4831,6 +4833,7 @@
 11613#Cookie#
 11616#Yummy Meat#
 11617#Dogcolate Ball#
+11706#Steak#
 12000#Level 5 Frost Diver#
 12001#Level 3 Heal#
 12002#Level 5 Heal#
@@ -6715,6 +6718,7 @@
 18932#Rhino Model Hat#
 18934#Fox Ear Bell Ribbon#
 18936#Golden Fish#
+18937#Memory of Lovers#
 18939#Black Cat Ears Beret#
 18940#Alive Ten Gallon Hat Of Flame#
 18944#Deviruchi Balloon#
@@ -6924,6 +6928,7 @@
 19756#Costume Holy Mom Love#
 19759#Costume Umbrella Hat#
 19761#Costume White Lily#
+19762#Costume Happiness and Peace#
 19767#Costume Home Cherry Blossom#
 19769#Costume Mischievous Fairy#
 19780#Costume Rabbit Knit Hat#
@@ -7096,6 +7101,7 @@
 20299#Costume Face Crasher#
 20300#Costume Hill Wind Mask#
 20301#Costume Golden Savage Hat#
+20305#C Netty Heart Bubble Gum#
 20306#Costume Artist Hat#
 20311#Costume Magical Booster#
 20313#Costume CD in Mouth#
@@ -8028,7 +8034,7 @@
 25058#Twinkle Effect(Upper)#
 25059#Ghost Effect(Middle)#
 25060#Critical Stone(Middle)#
-25061#Range Stone(Middle)#
+25061#Range Stone (Middle)#
 25062#Greed Stone(Lower)#
 25063#Health Stone (Lower)#
 25064#Magic Stone (Lower)#
@@ -8800,6 +8806,7 @@
 31473#Costume Tipsy#
 31479#Costume Many Stars#
 31481#Costume CatCoffeeCup#
+31483#Costume Cat Ear Ribbon#
 31497#Costume Flowery Vision#
 31498#Costume Elephangel#
 31499#Costume Easter Egg Shell#
@@ -8842,6 +8849,7 @@
 31674#Costume Jitterbug Cap#
 31684#Costume Kururinpa Tails#
 31686#Costume Desert Wolf Baby#
+31693#Costume Lunatic Muffler#
 31695#Costume Tree Sprout#
 31698#Costume Red Riding Hood#
 31699#Costume Smiling Eyes#
@@ -9209,6 +9217,7 @@
 103916#Villain Costume Scroll#
 103962#Erymanthian Boar Scroll#
 104001#Celestial Guard Scroll#
+104033#Cupid Love Costume Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9259,11 +9268,15 @@
 310010#High Priest Stone II (Lower)#
 310011#High Priest  Stone II (Garment)#
 310322#Magic Feather Effect#
+310325#Range Stone (Upper)#
+310326#Range Stone (Lower)#
+310330#Range Stone (Middle)#
 311395#Hit Plus 1#
 311396#Hit Plus 2#
 311397#Hit Plus 3#
 311398#Hit Plus 4#
 311399#Hit Plus 4#
+311926#Romantic Rose Effect#
 400020#Costume Beachball #
 400043#Fallen Angel Hairband#
 400056#Costume Blue Wavy Hair#
@@ -9480,6 +9493,7 @@
 410374#[Not For Sale] Gryphon Ears#
 410382#Odin Mask#
 420003#CD In Mouth#
+420005#Feeling of Love#
 420010#Costume Cons of Darkness#
 420014#Costume Japanese Hair#
 420015#Costume Onihime Camellia#
@@ -9541,6 +9555,7 @@
 420268#Costume Fluffy Semi Long#
 420321#Costume Neon Half Long#
 420337#Costume Ancient Runes#
+420353#Costume Charisma Extension Twin#
 420373#Heart Card In Mouth#
 420374#Diamond Card In Mouth#
 420375#Clover Card In Mouth#
@@ -9658,6 +9673,7 @@
 480131#Costume Swirling Flame#
 480158#Costume Lunatic Bag#
 480162#Special Bravery Bag#
+480167#Costume Valentine Heart Stick Chocolate#
 480168#Costume Melody Wings#
 480169#Costume Diabolic Guitar#
 480176#Costume Blue Rose Garden#
@@ -9669,6 +9685,7 @@
 480194#Heal Amistr Bag#
 480195#[Not For Sale] Enforcer cape#
 480196#[Not For Sale] Heal Amistr Bag#
+480201#Costume Guardian Angel Wings#
 480223#Costume Muramasa Blade#
 480226#Wing Of Happiness#
 480227#[Not For Sale] Wing Of Happiness#
@@ -9684,6 +9701,7 @@
 480262#[Not For Sale] Golden Wings#
 480264#Costume Wing of Harmony#
 480277#[Not for Sale] Christmas Guardian Tree#
+480280#Costume Big Ribbon Manteau (White)#
 480288#Costume Dark Lord Cloak#
 480294#[Not For Sale] Ladon's Skin#
 480307#Fallen Angel Wing#
@@ -9823,6 +9841,7 @@
 530048#Raid Human Spear#
 530059#Raid Ocean Trident#
 530061#WOE Spear 2#
+530065#Faceworm Queen Thorn#
 540076#Raid Human Magic Book#
 540092#Raid Ocean Book#
 550114#[Not For Sale] Arc Wand#
@@ -9847,10 +9866,12 @@
 600044#Raid Human Masamune#
 600060#Raid Ocean Two-Handed Sword#
 600061#WOE Two-Hand Sword 2#
+600065#Faceworm Queen Tailbone#
 610053#[Not For Sale] Katar#
 610056#Raid Human Katar#
 610073#Raid Ocean Katar#
 610074#WOE Katar 2#
+610077#Faceworm Queen Teeth#
 620027#[Not For Sale] Two-Handed_Axe#
 620032#Raid Human Slaughter#
 620041#Raid Ocean Two-Handed Axe#
@@ -9859,6 +9880,7 @@
 630033#Raid Human Fork#
 630046#Raid Ocean Spear#
 630047#WOE Two-Hand Lance 2#
+630051#Faceworm Queen Horn#
 640048#Raid Human Staff#
 640052#Raid Ocean Staff#
 640055#WOE Two-Handed Staff 2#
@@ -9888,6 +9910,8 @@
 1000019#High Priest Stone II (Garment)#
 1000345#Time Accessory Effect (Middle)#
 1000365#Magic Feather Effect (Upper)#
+1000375#Range Stone (Upper)#
+1000376#Range Stone (Lower)#
 1000467#Rebellion Pre-Register Ticket#
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
@@ -9895,6 +9919,7 @@
 1000923#Celestial Guard Coin#
 1000965#[Event] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
+1001175#Romantic Rose Effect Stone (Upper)#
 1001252#Roaring Effect (Upper)#
 1001277#(Raid) Silver Key#
 1001278#(Raid) Gold Key#

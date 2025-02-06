@@ -4929,7 +4929,7 @@
 11581#A Piece Of Cake#
 11582#Well Baked Cookie#
 11583#Chocolate Drink#
-11584#White Chocolate#
+11584#[Not For Sale] White Chocolate#
 11585#Handmade Chocolate#
 11586#Handmade Chocolate#
 11587#Chocolate#
@@ -7527,6 +7527,7 @@
 20319#Costume Crimson Booster#
 20325#Costume Little Aquarium#
 20335#Costume Teardrops#
+20336#Costume Tanghulu in Mouth#
 20347#Costume Poring Pirate Hat#
 20349#Costume FlyingGalapago#
 20373#Costume Watermelon Hat#
@@ -8998,6 +8999,10 @@
 24743#Soul Reaper Booster Shadow Weapon#
 24744#Super Novice Booster Shadow Weapon#
 24746#Separate Reload Shadow Shield#
+24747#Spell Caster Shadow Armor#
+24748#Spell Caster Shadow Shoes#
+24749#Spell Caster Shadow Earring#
+24750#Spell Caster Shadow Pendant#
 24770#Experience Shadow Weapon#
 25000#SP Absorption Stone (Upper)#
 25001#DEF Stone (Middle)#
@@ -10968,6 +10973,8 @@
 100791#Invisible Scroll#
 100807#Oriental Scroll#
 100818#1st Anniversary Jumping Box#
+100821#Reformed Hero Weapon Refine Hammer I#
+100822#Reformed Hero Weapon Refine Hammer II#
 100823#Lens Craft Stone#
 100827#1st Anniversary Scroll#
 100837#Welcome Adventurer#
@@ -11044,6 +11051,7 @@
 101177#Full Tempenet Shadow Spellbook#
 101178#Reload Shadow Spellbook#
 101181#Reload Shadow Box#
+101182#Spell Caster Shadow Mix Box#
 101193#RTC 2021 Scroll#
 101195#(Limited) HE Bubble Gum#
 101196#(Limited) HE Bubble Gum Box#
@@ -11523,6 +11531,7 @@
 103986#Power of Abyss Ore (Magical)#
 103987#Power of Abyss Jewel#
 103988#Abyss Scroll#
+103999#Ifrit Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12114,6 +12123,8 @@
 313742#Purified Stone Garment(VIT)#
 313743#Purified Stone Garment(AGI)#
 313744#Purified Stone Garment(Ultimate)#
+313786#Arch Mage Spirit#
+313787#Warlock the hero#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -12693,6 +12704,7 @@
 450398#Gabriel Dress#
 450399#Ice Flame Dress#
 450400#Red Serpent Dress#
+450435#Improved Powered Suit-LT#
 460003#Feather Shield#
 460004#Illusion Shield I#
 460012#Reinforced Guard#
@@ -12991,6 +13003,7 @@
 480515#Costume Autumn Full Moon#
 480533#Hero Courage Cape#
 480534#Hero Favor Cape#
+480535#Improved Powered Wing-LT#
 490004#Attacker Booster Ring#
 490005#Elemental Booster Earring#
 490006#Defunct Booster Earring#
@@ -13065,9 +13078,11 @@
 490149#Glittering Meow Meow Choker#
 490152#Heroic Token (Arch Mage)#
 490155#Heroic Token (Imperial Guard)#
+490156#Heroic Token (Cardinal)#
 490159#러프 코어#
 490164#Heroic Token (Shadow Cross)#
 490165#Heroic Token (Abyss Chaser)#
+490171#Heroic Token (Elemental Master)#
 490172#Heroic Token (Troubadour/Trouvere)#
 490180#Heroic Token (Meister)#
 490181#Heroic Token (Inquisitor)#
@@ -13263,6 +13278,7 @@
 490675#[Not for Sale] Memento Memory (Elemental Master)#
 490676#Memento Mind (Cardinal)#
 490677#[Not for Sale] Memento Mind (Cardinal)#
+490680#Volcano Hero Ring#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -13361,6 +13377,7 @@
 540032#Eden Group Sorcerer Spell Book#
 540033#Eden Group Star Emperor Sun Book#
 540034#Eden Group Star Emperor Moon Book#
+540035#Exorcist's Bible-LT#
 540039#Moon Starlight Booster Book#
 540040#Sunshine Booster Book#
 540051#Circuit Board-OSAD#
@@ -13395,6 +13412,8 @@
 550042#Eden Group Summoner Foxtail#
 550043#Eden Group Summoner Foxtail Model#
 550044#Eden Group Super Novice Wand#
+550045#Shadow Staff-LT#
+550046#Chilling Cane-LT#
 550050#Lunatic Picky Booster Foxtail#
 550051#Catnip Booster Foxtail Model#
 550052#Es Booster Staff#
@@ -13473,6 +13492,7 @@
 590027#Eden Group Priest Mace#
 590028#Eden Group Genetic Mace#
 590029#Eden Group Archbishop Mace#
+590030#Saint Mace-LT#
 590034#Meteor Striker-LT#
 590043#Saphir Mace-OSAD#
 590044#Ultio-OSAD#

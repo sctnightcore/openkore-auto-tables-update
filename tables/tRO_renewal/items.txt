@@ -7620,6 +7620,7 @@
 20564#Costume Aura of Flamingo#
 20567#Costume Aura of Darkness#
 20569#Costume Aura of Shamrock#
+20570#Costume Heart Chocolate Bag#
 20571#Costume Valkyrie Wings#
 20572#Costume Wing of Heart#
 20573#Costume Violet Halo#
@@ -10459,6 +10460,7 @@
 31432#Costume Luwmin Ice#
 31437#Costume Baby Penguin#
 31438#Costume Fluffy Angel Cape#
+31439#Costume Fluffy Heart Earmuffs#
 31440#Costume Snow Bear Hood#
 31451#Costume Blue Frill Ribbon#
 31452#Costume White Cat#
@@ -10504,6 +10506,7 @@
 31573#Costume Mecha Cat Ears#
 31574#Costume Cyber Income#
 31575#Costume Electric Two Sides Up Hair#
+31579#Costume I Love Game RO#
 31580#Costume Autumn Taste#
 31583#Costume Will O the Wisp#
 31586#Costume Poporing Muffler#
@@ -11033,6 +11036,7 @@
 101084#Limited Gacha Gift Box#
 101096#Candy Witch Scroll#
 101097#[Scroll] Unlimited Drink#
+101103#Costume Enchant Stone Box 25#
 101107#Ice Cannon Ball Box#
 101108#Lightning Cannon Ball Box#
 101109#Stone Cannon Ball Box#
@@ -11532,6 +11536,8 @@
 103987#Power of Abyss Jewel#
 103988#Abyss Scroll#
 103999#Ifrit Scroll#
+104039#Extended Test Pass Box#
+104052#Zeny Lucky Item Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -11576,6 +11582,8 @@
 200506#(Limited) Refine Ore Box (50)#
 200507#(Limited) Enriched Oridecon Box (100)#
 200508#(Limited) Enriched Elunium Box (100)#
+200574#Rapid Life Water Package Box#
+200575#Force Booster Package Box#
 300000#IDTest Card#
 300001#Poisonous Card#
 300002#Toxious Card#
@@ -12044,6 +12052,17 @@
 310917#Intelligence#
 310918#Vitality#
 310919#Agility#
+311005#Wanderer Minstrel Stone (Upper)#
+311006#Wanderer Minstrel Stone (Middle)#
+311007#Wanderer Minstrel Stone (Lower)#
+311008#Genetic Stone (Upper)#
+311009#Genetic Stone (Middle)#
+311010#Genetic Stone (Lower)#
+311011#Sorcerer Stone (Upper)#
+311012#Sorcerer Stone (Middle)#
+311013#Sorcerer Stone (Lower)#
+311014#Reload Stone (Dual)#
+311015#Creative Stone (Dual)#
 311367#Gray Spell (Warrior) Lv.1#
 311368#Gray Spell (Warrior) Lv.2#
 311369#Gray Spell (Warrior) Lv.3#
@@ -12263,6 +12282,7 @@
 400455#Diadem Of Bruenhild#
 400456#[Not For Sale] Diadem Of Bruenhild#
 400468#MomChicken Hat#
+400471#Costume Very Angry Fish#
 400472#Circlet Of Phoenix#
 400473#[Not For Sale] Circlet Of Phoenix#
 400478#Red Commando Beret#
@@ -12443,6 +12463,7 @@
 420076#속박의 목걸이#
 420077#Costume Cat Footprints#
 420079#Costume Inner Color Long#
+420088#Costume Heart Angel#
 420089#[Rental] Sealed Mob Scarf#
 420104#Costume Wild Long Hair#
 420106#Exotic Temporal Young Leaf#
@@ -12856,6 +12877,7 @@
 480118#Costume General Daehyun Sword#
 480119#Costume Niflheim Key#
 480120#Guardian Soul#
+480121#Costume Striking Mikoshi#
 480122#Costume Samba Carnival Feather#
 480123#Costume Nydhog's Rumor#
 480124#Convertible Physical Wing#
@@ -13918,6 +13940,17 @@
 1000618#Royal Guard Stone (Lower)#
 1000619#World Moving Ticket#
 1000657#영혼의 실타래#
+1000666#Wanderer Minstrel Stone (Upper)#
+1000667#Wanderer Minstrel Stone (Middle)#
+1000668#Wanderer Minstrel Stone (Lower)#
+1000669#Genetic Stone (Upper)#
+1000670#Genetic Stone (Middle)#
+1000671#Genetic Stone (Lower)#
+1000672#Sorcerer Stone (Upper)#
+1000673#Sorcerer Stone (Middle)#
+1000674#Sorcerer Stone (Lower)#
+1000675#Reload Stone (Dual)#
+1000676#Creative Stone (Dual)#
 1000709#Clean Snow#
 1000836#Certificate of Hunter Union#
 1000837#Captured Common Crystal#
@@ -14007,6 +14040,7 @@
 1001956#Purified Stone Garment(AGI)#
 1001957#Purified Stone Garment(Ultimate)#
 1001971#Ding Ding Wish Coin#
+1002022#Extended Test Pass#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#

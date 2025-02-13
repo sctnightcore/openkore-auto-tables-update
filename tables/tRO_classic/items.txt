@@ -4655,6 +4655,7 @@
 9523#Metal Refine Ticket#
 9539#Blue Potion Box#
 9550#Gemstone of Time#
+9551#Unsealed Temporal Key#
 9582#Fancy Spray of Flowers#
 9808#Old Hat Box#
 9817#Adventurer Scroll#
@@ -7124,6 +7125,7 @@
 20401#Costume Angel Spirit Guides#
 20404#Costume Blessing Of Angels#
 20407#Costume Test Subject Aura (Red)#
+20408#Costume Angel and Demon Crown#
 20412#Costume Tayelin Doll Hat#
 20425#Costume Angeling Balloon#
 20426#Costume Grade 11 Balloon#
@@ -7262,6 +7264,8 @@
 20918#Angeling Poring Wing#
 20949#Ladon's Skin#
 20955#Christmas Guardian Tree#
+20963#Temporal Str Manteau#
+20965#Temporal Vit Manteau#
 20985#Costume Gourd Bottle#
 20988#Costume Mechanical Butterfly#
 20989#Costume Wind-up Screw#
@@ -8741,12 +8745,13 @@
 31179#Costume Wolf Masquerade#
 31186#Costume Black Cat#
 31188#Costume Mono Gothic Bonnet#
-31189#Costume Red Cat Ears Cape#
+31189#Costume Red Panda Cape#
 31195#Costume Chocolate Mini Hat#
 31200#Costume Wrapping Ribbon#
 31203#Costume Taotaan#
 31207#Costume Dokkebi Mask#
 31237#Costume Pope Ribbon#
+31244#Costume Sky Helm#
 31249#Costume Hopping Rabbit#
 31251#Costume Cat Mouth#
 31252#Costume White Cat Ears Hat#
@@ -9218,6 +9223,9 @@
 103962#Erymanthian Boar Scroll#
 104001#Celestial Guard Scroll#
 104033#Cupid Love Costume Scroll#
+104038#Red Panda Box#
+104040#Razer Sky Helm Box#
+104050#Guerrilla Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9819,13 +9827,19 @@
 490662#Elite Royalguard Ring#
 490682#Zephyrus Ring#
 490683#[Not For Sale] Zephyrus Ring#
+490694#Guerrilla Ring#
+490695#Guerrilla Glove#
+490696#[Not For Sale] Guerrilla Ring#
+490697#[Not For Sale] Guerrilla Glove#
 500000#IDTest weapon#
 500003#Light Blade#
 500061#[Not For Sale] Light Blade#
+500073#[Not For Sale] Fatalist#
 500079#Raid Human Sword#
 500080#[Not For Sale] Blessed Knife#
 500100#Raid Ocean Sword#
 500104#WOE Sword 2#
+510006#Fatalist#
 510070#Blessed Knife#
 510101#[Not For Sale] Gladius#
 510119#Raid Human Knife#
@@ -9916,7 +9930,7 @@
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000896#RCC2024 Coin#
-1000923#Celestial Guard Coin#
+1000923#Guerrilla Coin#
 1000965#[Event] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001175#Romantic Rose Effect Stone (Upper)#
@@ -9943,6 +9957,7 @@
 1001876#VIP Black Coin#
 1001877#VIP Black Ticket#
 1001878#3rd Anniversary Jumping Event Ticket#
+1002030#Reset Erymanthian Ticket#
 1100000#IDTest heal#
 1100011#Monster Bread#
 1100023#Violet Potion#

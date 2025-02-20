@@ -3501,7 +3501,7 @@
 6264#Melon#
 6265#Pineapple#
 6266#Key Of Deception#
-6267#Key Of Illusion#
+6267#Red Panda Memorial Key#
 6268#Dex Gold Key#
 6269#A Master's Brush#
 6270#A Picture Of Song, A Minstrel#
@@ -4647,10 +4647,13 @@
 9121#[SSR] Orc Hero Egg#
 9122#[SSR]Gloom Under Night Egg#
 9126#[SSR] Kiel-D-01 Egg#
+9128#[S]Dark Priest Egg#
 9129#[S] Desert Wolf Egg#
 9130#[SR] Chaotic Baphomet Jr. Egg#
 9131#Fire Golem Egg#
 9137#[SSR] Baphomet Egg#
+9139#[SR]Dark Illusion Egg#
+9148#[SSR]Dark Lord Egg#
 9510#Costume Enchant Stone Box 17#
 9523#Metal Refine Ticket#
 9539#Blue Potion Box#
@@ -6205,6 +6208,7 @@
 15484#[Not For Sale] Celine's Dress#
 15842#Costume Pocket Watch Magic Hat#
 15888#Costume Dragon Claw Helm#
+15943#Love Cheeks#
 15947#[Not For Sale] Indigo Rear Ribbon#
 15952#Costume 15th Nov Helmet#
 15953#Costume Somtam#

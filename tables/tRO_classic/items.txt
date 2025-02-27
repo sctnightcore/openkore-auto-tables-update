@@ -3873,7 +3873,7 @@
 6960#Aerial Fortress Key#
 6961#Huge Metal Scrap#
 6962#Old Fuel#
-6963#HP Drain Stone (Garment)#
+6963#HP Absorption Stone (Garment)#
 6964#SP Drain Stone (Garment)#
 6965#Fire Property Reactor#
 6966#Water Property Reactor#
@@ -5721,6 +5721,7 @@
 13460#Sealed Magic Sword#
 13461#Sealed Evil Sword#
 13462#Sealed Maximum Sword#
+13482#Orcish Blade#
 13485#Red Lotus Sword#
 13502#Drooping Kitty Box#
 13516#Royal Jelly Box#
@@ -6469,6 +6470,7 @@
 18112#Upgrade Bow#
 18113#Bellum Arbalest#
 18114#Bellum CrossBow#
+18115#Orc Archer Bow#
 18116#Metal Bow#
 18117#Royal Bow#
 18118#TE WoE Bow#
@@ -8485,6 +8487,7 @@
 28705#Dagger of Crimson#
 28706#Vicious Mind Dagger#
 28726#Probation Stalker Dagger#
+28741#Orcish Dagger#
 28900#Royal Guard Shield#
 28902#Mad Bunny#
 28913#Ultralight Magic Shield#
@@ -9230,6 +9233,11 @@
 104038#Red Panda Box#
 104040#Razer Sky Helm Box#
 104050#Guerrilla Scroll#
+104089#Pre-Oder Platinum Box#
+104091#Mail Account Bronze#
+104092#Mail Account Silver#
+104093#Mail Account Gold#
+104100#Classic Hat Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9931,6 +9939,7 @@
 1000375#Range Stone (Upper)#
 1000376#Range Stone (Lower)#
 1000467#Rebellion Pre-Register Ticket#
+1000552#Evil's Water#
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000896#RCC2024 Coin#
@@ -9962,6 +9971,7 @@
 1001877#VIP Black Ticket#
 1001878#3rd Anniversary Jumping Event Ticket#
 1002030#Reset Erymanthian Ticket#
+1002049#Costume Blueprint#
 1100000#IDTest heal#
 1100011#Monster Bread#
 1100023#Violet Potion#

@@ -6824,6 +6824,7 @@
 19404#Biting Rideword#
 19413#SnowFlake Tiara#
 19414#Morning Poring#
+19429#Zarathustra#
 19493#Sinister Horn Gear#
 19494#Frantic Looking#
 19495#Diabolus Wing#
@@ -7271,7 +7272,9 @@
 20949#Ladon's Skin#
 20955#Christmas Guardian Tree#
 20963#Temporal Str Manteau#
+20964#Temporal Agi Manteau#
 20965#Temporal Vit Manteau#
+20968#Temporal Luk Manteau#
 20985#Costume Gourd Bottle#
 20988#Costume Mechanical Butterfly#
 20989#Costume Wind-up Screw#
@@ -9216,7 +9219,7 @@
 103674#Grace Of Spirit#
 103682#Costume 3rd Anniversary Box#
 103683#Guarantee Random 5-12Up Box#
-103711#Random Option The Ragnarok T-Shirts#
+103711#[Event] Random Option#
 103763#Cuddly Bear Costume Scroll#
 103767#Bossnia Card Box#
 103779#Dragon's Core Scroll#
@@ -9238,6 +9241,7 @@
 104092#Mail Account Silver#
 104093#Mail Account Gold#
 104100#Classic Hat Box#
+104114#Skyfall Strike Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9706,6 +9710,7 @@
 480195#[Not For Sale] Enforcer cape#
 480196#[Not For Sale] Heal Amistr Bag#
 480201#Costume Guardian Angel Wings#
+480207#Costume Traveller Bag#
 480223#Costume Muramasa Blade#
 480226#Wing Of Happiness#
 480227#[Not For Sale] Wing Of Happiness#
@@ -9843,6 +9848,8 @@
 490695#Guerrilla Glove#
 490696#[Not For Sale] Guerrilla Ring#
 490697#[Not For Sale] Guerrilla Glove#
+490699#Boxer Blue Glove#
+490700#[Not For Sale] Boxer Blue Glove#
 500000#IDTest weapon#
 500003#Light Blade#
 500061#[Not For Sale] Light Blade#
@@ -9914,6 +9921,7 @@
 650051#WOE Huuma Shuriken 2#
 700000#IDTest bow#
 700003#Scarlet Dragon Leather Bow#
+700057#[Not For Sale]Royal Bow#
 700075#[Not For Sale] Kakkung#
 700079#Raid Human CrossBow#
 700103#Raid Ocean Bow#
@@ -9943,7 +9951,7 @@
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000896#RCC2024 Coin#
-1000923#Guerrilla Coin#
+1000923#Skyfall Strike Coin#
 1000965#[Event] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001175#Romantic Rose Effect Stone (Upper)#

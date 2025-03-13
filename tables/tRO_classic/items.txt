@@ -6828,6 +6828,7 @@
 19493#Sinister Horn Gear#
 19494#Frantic Looking#
 19495#Diabolus Wing#
+19505#Costume Cigarette#
 19507#Costume Fine Sun#
 19509#Costume Butterfly Wing Ear#
 19510#Costume Nut On Head#
@@ -6885,6 +6886,7 @@
 19624#Costume Round Eyes#
 19629#Costume Tiara#
 19630#Costume Crown#
+19639#Costume Sukkat#
 19646#Costume Ramen Hat#
 19649#Costume White Kitten Ears#
 19650#Costume Rainbow Feather Decoration#
@@ -6945,6 +6947,7 @@
 19788#Costume Heart Eyepatch#
 19789#Costume Sweet Gent#
 19795#Costume Grand Circlet#
+19797#Costume Apple of Archer#
 19806#Costume Bloom Blossom Hairpin#
 19808#Costume Blazing Sun#
 19810#Costume Ifrit's Ear#
@@ -6981,6 +6984,7 @@
 19876#Costume Bunny Top Hat#
 19893#Costume Fasolla Magic Hat#
 19903#Costume: Witch's Pumpkin Hat#
+19905#Costume Secret Bandana#
 19912#Costume Cat Eye#
 19914#Felrock’s Hat#
 19922#Costume Noah Hat#
@@ -7080,6 +7084,7 @@
 20220#Costume Dark Night Veil#
 20221#Costume Eyes Of Ifrit#
 20222#Costume Blue Sheep Santa Hat#
+20223#Costume Romantic Leaf#
 20232# Costume Celine Ribbon #
 20234#Costume Baphomet Hat#
 20240#Costume Gift Of Snow#
@@ -7180,6 +7185,7 @@
 20516#Costume Wings of Michael#
 20517#Costume Giant Cat Bag#
 20522#Costume Blessings of Soul#
+20525#Costume Bloody Wing#
 20526#Costume Blue Angeling Wing#
 20528#Costume Gold Butterfly Wing#
 20529#Costume RCC Commemorative Flag#
@@ -8932,6 +8938,7 @@
 100054#Shadow Transcendental Time Box#
 100061#[Not For Sale] Red Booster#
 100083#Korean Style Apple Hair Box (Middle)#
+100128#Noblesse Refine Ticket#
 100171#Cannon Ball Box#
 100172#??? Cannon Ball Box#
 100173#Soul Cannon Ball Box#
@@ -8958,6 +8965,7 @@
 100195#Full Metal Ammo Case#
 100196#Mine Ammo Case#
 100197#Dragon Tail Ammo Case#
+100202#Costume Enchant Stone Box20#
 100371#Homunculus Tablet#
 100492#Field Manual Special#
 100493#Job Manual Special#
@@ -9236,11 +9244,12 @@
 104038#Red Panda Box#
 104040#Razer Sky Helm Box#
 104050#Guerrilla Scroll#
-104089#Pre-Oder Platinum Box#
+104089#Pre-Order Platinum Box#
 104091#Mail Account Bronze#
 104092#Mail Account Silver#
 104093#Mail Account Gold#
 104100#Classic Hat Box#
+104102#Hitman Costume Scroll#
 104114#Skyfall Strike Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
@@ -9291,6 +9300,18 @@
 310009#High Priest Stone II (Middle)#
 310010#High Priest Stone II (Lower)#
 310011#High Priest  Stone II (Garment)#
+310180#High Wizard Stone II (Garment)#
+310181#High Wizard Stone II (Upper)#
+310182#High Wizard Stone II (Middle)#
+310183#High Wizard Stone II (Lower)#
+310184#Paladin Stone II (Garment)#
+310185#Paladin Stone II (Lower)#
+310186#Paladin Stone II (Middle)#
+310187#Paladin Stone II (Upper)#
+310188# Assassin Cross Stone II (Garment)#
+310189#Assassin Cross Stone II (Lower)#
+310190#Assassin Cross Stone II (Middle)#
+310191#Assassin Cross Stone II (Upper)#
 310322#Magic Feather Effect#
 310325#Range Stone (Upper)#
 310326#Range Stone (Lower)#
@@ -9430,6 +9451,7 @@
 400679#Pink Shampoo Hat#
 400680#[Not For Sale] Pink Shampoo Hat#
 400702#[Not For Sale] Crown of the Ocean#
+400709#Costume White Puppy Hat#
 400713#Queen Scaraba Crown#
 400719#2024 RTC Jormungandr Hat#
 400720#[Not For Sale] 2024 RTC Jormungandr Hat#
@@ -9511,6 +9533,7 @@
 410354#RCC2024 Wing Of Thor#
 410355#RCC2024 Wing Of Thor#
 410356#[Not For Sale] RCC2024 Wing Of Thor#
+410359#Costume Great Pyrenees#
 410363#Costume Aura of Ghost Ship#
 410372#Gryphon Ears#
 410373#Gryphon Ears#
@@ -9577,6 +9600,7 @@
 420257#[Not For Sale] Imperial Glory#
 420267#Costume Twin Canon#
 420268#Costume Fluffy Semi Long#
+420282#Costume Hit Man Hair (Black)#
 420321#Costume Neon Half Long#
 420337#Costume Ancient Runes#
 420353#Costume Charisma Extension Twin#
@@ -9590,6 +9614,8 @@
 440000#Costume Shark Hat#
 440010#Costume Bear Head#
 450000#IDTest armor#
+450121#Noblesse Super Novice Suit#
+450122#Noblesse Super Novice Robe#
 450131#Fallen Angel Armor#
 450179#Celine's Dress#
 450253#School Uniform#
@@ -9631,6 +9657,8 @@
 460056#[Not For Sale] Spenta Mainyu#
 460085#Insecticide Shield#
 460086#[Not For Sale] Insecticide Shield#
+470016#Noblesse Attack Boots#
+470017#Noblesse Magic Boots#
 470033#Elemental Boots#
 470131#Exorcist Shoes#
 470132#Insect Collector Shoes#
@@ -9679,6 +9707,8 @@
 470302#[Not For Sale] 2024 RTC Shoes#
 470310#Pororoca Shoes#
 470311#Pororoca Shoes#
+480012#Noblesse Attack Manteau#
+480014#Noblesse Magic Manteau#
 480055#Costume Wavy Rudra Angel Wings#
 480056#Costume Wavy Black Angel Wings#
 480058#Costume Wavy Golden Angel Wings#
@@ -9687,6 +9717,7 @@
 480096#Costume Haori Coat#
 480097#Costume Snow Powder#
 480107#Costume Kings Twin Sword#
+480110#Costume Adventure Cat Bag#
 480119#Costume Niflheim Key#
 480120#Guardian Soul#
 480122#Costume Samba Carnival Feather#
@@ -9737,6 +9768,7 @@
 480320#Costume Songkran Aqua Fin Decoration#
 480333#Medical Cape#
 480334#[Not For Sale] Medical Cape#
+480337#Costume Wooden Toy Rifle#
 480360#Costume Great Shuriken#
 480361#Costume Evil Dual Swords#
 480362#Costume White Nine Tails#
@@ -9769,6 +9801,9 @@
 480531#Erymanthian Skin#
 480532#[Not For Sale] Erymanthian Skin#
 480537#[Not For Sale] Commander Manteau#
+490014#Noblesse Attack Ring#
+490015#Noblesse Magic Ring#
+490017#Imperial Attack Ring#
 490030#Temporal Ring#
 490033#Fallen Angel's Tear#
 490147#1st Anniversary Ring#
@@ -9852,6 +9887,7 @@
 490700#[Not For Sale] Boxer Blue Glove#
 500000#IDTest weapon#
 500003#Light Blade#
+500035#Eden Group Super Novice Sword#
 500061#[Not For Sale] Light Blade#
 500073#[Not For Sale] Fatalist#
 500079#Raid Human Sword#
@@ -9877,6 +9913,7 @@
 530065#Faceworm Queen Thorn#
 540076#Raid Human Magic Book#
 540092#Raid Ocean Book#
+550040#Eden Group Super Novice Staff#
 550114#[Not For Sale] Arc Wand#
 550121#Raid Human Stick#
 550147#Raid Ocean Stick#
@@ -9942,6 +9979,18 @@
 1000017#High Priest Stone II (Middle)#
 1000018#High Priest Stone II (Lower)#
 1000019#High Priest Stone II (Garment)#
+1000213#High Wizard Stone II (Garment)#
+1000214#High Wizard Stone II (Upper)#
+1000215#High Wizard Stone II (Middle)#
+1000216#High Wizard Stone II (Lower)#
+1000217#Paladin Stone II (Garment)#
+1000218#Paladin Stone II (Upper)#
+1000219#Paladin Stone II (Middle)#
+1000220#Paladin Stone II (Lower)#
+1000221#Assassin Cross Stone II (Garment)#
+1000222#Assassin Cross Stone II (Upper)#
+1000223#Assassin Cross Stone II (Middle)#
+1000224#Assassin Cross Stone II (Lower)#
 1000345#Time Accessory Effect (Middle)#
 1000365#Magic Feather Effect (Upper)#
 1000375#Range Stone (Upper)#
@@ -9961,7 +10010,7 @@
 1001354#Idle Fish Rod#
 1001423#Reset Fallen Ticket#
 1001484#Arcade Coin#
-1001492#Golden Accessory Ticket#
+1001492#Super Novice Expansion Set#
 1001493#Golden Weapon Upgrade Ticket#
 1001572#Rokia 2023#
 1001586#Razer Gold Key#

@@ -6209,6 +6209,8 @@
 15484#[Not For Sale] Celine's Dress#
 15842#Costume Pocket Watch Magic Hat#
 15888#Costume Dragon Claw Helm#
+15925#Costume Splash Hat#
+15926#Costume Beer Server#
 15943#Love Cheeks#
 15947#[Not For Sale] Indigo Rear Ribbon#
 15952#Costume 15th Nov Helmet#
@@ -7280,6 +7282,7 @@
 20963#Temporal Str Manteau#
 20964#Temporal Agi Manteau#
 20965#Temporal Vit Manteau#
+20966#Temporal Int Manteau#
 20968#Temporal Luk Manteau#
 20985#Costume Gourd Bottle#
 20988#Costume Mechanical Butterfly#
@@ -9251,6 +9254,7 @@
 104100#Classic Hat Box#
 104102#Hitman Costume Scroll#
 104114#Skyfall Strike Scroll#
+104204#Freedom Smith Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9464,6 +9468,8 @@
 400753#[Not For Sale] Khalitzburg Knight Blue Helm#
 400764#Parfait V Hat#
 400765#[Not For Sale] Parfait V Hat#
+400797#Master Helmgear#
+400798#[Not For Sale] Master Helmgear#
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -9713,6 +9719,7 @@
 480056#Costume Wavy Black Angel Wings#
 480058#Costume Wavy Golden Angel Wings#
 480069#Costume Wavy Angel Wings#
+480093#Costume Scepter#
 480095#Costume Giant White Rabbit#
 480096#Costume Haori Coat#
 480097#Costume Snow Powder#
@@ -9885,6 +9892,8 @@
 490697#[Not For Sale] Guerrilla Glove#
 490699#Boxer Blue Glove#
 490700#[Not For Sale] Boxer Blue Glove#
+490717#Master Smith Gloves#
+490718#[Not For Sale] Master Smith Gloves#
 500000#IDTest weapon#
 500003#Light Blade#
 500035#Eden Group Super Novice Sword#
@@ -9914,10 +9923,12 @@
 540076#Raid Human Magic Book#
 540092#Raid Ocean Book#
 550040#Eden Group Super Novice Staff#
+550080#Freedom Stick#
 550114#[Not For Sale] Arc Wand#
 550121#Raid Human Stick#
 550147#Raid Ocean Stick#
 550151#WOE Wand 2#
+550162#[Not For Sale] Freedom Stick#
 560049#Raid Human Claw#
 560066#Raid Ocean Claw#
 560069#WOE Pist 2#
@@ -9927,10 +9938,12 @@
 580051#Raid Human Whip#
 580071#Raid Ocean Whip#
 580074#WOE Whip 2#
+590002#Meteor Striker#
 590061#[Not For Sale] Stunner#
 590065#Raid Human Driver#
 590088#Raid Ocean Mace#
 590089#WOE Club 2#
+590094#[Not For Sale] Meteor Striker#
 600000#IDTest bothhand#
 600040#[Not For Sale] Two-Handed Sword#
 600044#Raid Human Masamune#
@@ -10000,7 +10013,7 @@
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000896#RCC2024 Coin#
-1000923#Skyfall Strike Coin#
+1000923#Freedom Smith Coin#
 1000965#[Event] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001175#Romantic Rose Effect Stone (Upper)#
@@ -10029,6 +10042,7 @@
 1001878#3rd Anniversary Jumping Event Ticket#
 1002030#Reset Erymanthian Ticket#
 1002049#Costume Blueprint#
+1002056#Adventurer Pass Book#
 1100000#IDTest heal#
 1100011#Monster Bread#
 1100023#Violet Potion#
